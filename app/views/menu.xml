@@ -1,0 +1,22 @@
+<Alloy>
+	<View id="menu">
+   		 <TableView id="menuTable" class="menuoptions" onClick="doMenuClick">
+			<TableViewRow class="menurowcontainer" rowId="1">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Inicio</Label>
+				</View>
+			</TableViewRow>
+			<TableViewRow class="menurowcontainer" rowId="2">
+				<View class="menurow">
+					<View class="iconcontainer">
+						<ImageView class="icon" image="/ic_action_not_important.png"/>
+					</View>
+					<Label class="menucaption">Pagina 1</Label>
+				</View>
+			</TableViewRow>
+		</TableView>
+	</View>
+</Alloy>

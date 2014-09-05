@@ -1,0 +1,41 @@
+"#menu":{
+	height:Ti.UI.FILL, 
+	width:Ti.UI.FILL,
+	backgroundColor: "#4F4F4F"
+}
+
+".menuoptions":{
+	backgroundColor:"#343434",
+	top:"0",
+	height: Ti.UI.SIZE
+}
+
+".menurow":{
+	backgroundColor:"#414141",
+	height:"50",
+	layout:"horizontal"
+}
+
+".menurowcontainer":{
+	width:Ti.UI.FILL,
+	color:"#fff",
+	height:Ti.UI.SIZE
+}
+
+".iconcontainer":{
+	 width:Ti.UI.SIZE,
+	 height:Ti.UI.FILL,
+	 left:"5"
+}
+
+".icon":{
+	 width:"30",
+	 height:"30"
+}		
+		
+".menucaption":{
+	 width:Ti.UI.FILL,
+	 height:Ti.UI.FILL,
+	 color:"#fff",
+	 left:"10"
+}

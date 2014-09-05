@@ -1,0 +1,5 @@
+<Alloy>
+	<Window title="Pagina 1">
+        <Label id="label">Pagina 1</Label>
+    </Window>
+</Alloy>
